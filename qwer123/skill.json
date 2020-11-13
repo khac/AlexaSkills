@@ -1,0 +1,35 @@
+{
+  "manifest": {
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "arn:aws:lambda:us-east-1:089997484831:function:ec6435ad-68b7-4453-8dec-6b96ded0a274:Release_0"
+        },
+        "regions": {
+          "EU": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:eu-west-1:089997484831:function:ec6435ad-68b7-4453-8dec-6b96ded0a274:Release_0"
+            }
+          },
+          "NA": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-east-1:089997484831:function:ec6435ad-68b7-4453-8dec-6b96ded0a274:Release_0"
+            }
+          },
+          "FE": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-west-2:089997484831:function:ec6435ad-68b7-4453-8dec-6b96ded0a274:Release_0"
+            }
+          }
+        }
+      }
+    },
+    "publishingInformation": {
+      "locales": {
+        "en-US": {
+          "name": "qwer123"
+        }
+      }
+    }
+  }
+}
